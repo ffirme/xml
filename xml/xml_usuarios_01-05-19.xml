@@ -1,0 +1,24 @@
+ <?xml version='1.0' econding='UTF-8'>
+
+<usuarios>
+       <usuario>
+		<nome>Fernando</nome>
+		<email>email@email.com</email>
+		<active>no</active>
+       </usuario>
+       <usuario>
+		<nome>Diego Venancio</nome>
+		<email>email@email.com</email>
+		<active>no</active>
+       </usuario>
+       <usuario>
+		<nome>Advânio</nome>
+		<email>email@email.com</email>
+		<active>no</active>
+       </usuario>
+       <usuario>
+		<nome>Edivaldo</nome>
+		<email>email@email.com</email>
+		<active>no</active>
+       </usuario>
+</usuarios>
